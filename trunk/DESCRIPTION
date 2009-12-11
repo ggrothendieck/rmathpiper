@@ -1,0 +1,13 @@
+Package: rMathpiper
+Version: 0.1-1
+Date: 2009-11-27
+Title: R interface to the mathpiper computer algebra system
+Description: Interface to access Mathpiper from R.
+Author: G Grothendieck based, in part, on Ryacas by R Goodman, 
+	G Grothendieck, S Hojsgaard and A Pinkus.  yacas itself is by 
+	A Pinkus and team and Mathpiper is a fork of java yacas further 
+	developed (including RForm output) by T Kosan and H Ostrowsky.
+Maintainer: G Grothendieck <ggrothendieck@gmail.com>
+Depends: R (>= 2.9.2), rJava (>= 0.8-1)
+License: GPL-2
+URL: http://rmathpiper.googlecode.com
